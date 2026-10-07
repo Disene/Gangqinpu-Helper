@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         虫虫钢琴增强助手
 // @namespace    https://github.com/YOUR_USERNAME/gangqinpu-ultimate-helper
-// @version      5.6.1
+// @version      1.0.0
 // @description  虫虫钢琴增强助手：免登录纯净预览/打印、MP3强制下载、MIDI/CCMZ解析、简五线切换、H5支持、图片谱PDF、水印清除。整合多份优秀脚本优点。
 // @author       Combined
 // @license      GPLv3
