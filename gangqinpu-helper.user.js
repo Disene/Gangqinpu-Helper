@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         虫虫钢琴增强助手
-// @namespace    https://github.com/YOUR_USERNAME/gangqinpu-ultimate-helper
+// @namespace    https://github.com/Disene/Gangqinpu-Helper
 // @version      1.0.0
 // @description  虫虫钢琴增强助手：免登录纯净预览/打印、MP3强制下载、MIDI/CCMZ解析、简五线切换、H5支持、图片谱PDF、水印清除。整合多份优秀脚本优点。
-// @author       Combined
-// @license      GPLv3
+// @author       Disene
+// @license      GPL-3.0-or-later
 // @match        *://www.gangqinpu.com/jianpu/*
 // @match        *://www.gangqinpu.com/cchtml/*
 // @match        *://www.gangqinpu.com/sheetplayer/*
@@ -15,8 +15,8 @@
 // @grant        unsafeWindow
 // @connect      s201.lzjoy.com
 // @run-at       document-end
-// @downloadURL  https://raw.githubusercontent.com/Disene/gangqinpu-helper/main/虫虫钢琴极致助手.user.js
-// @updateURL    https://raw.githubusercontent.com/Disene/gangqinpu-helper/main/虫虫钢琴极致助手.user.js
+// @downloadURL  https://raw.githubusercontent.com/Disene/gangqinpu-helper/main/gangqinpu-helper.user.js
+// @updateURL    https://raw.githubusercontent.com/Disene/gangqinpu-helper/main/gangqinpu-helper.user.js
 // ==/UserScript==
 
 (function () {
